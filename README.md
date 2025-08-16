@@ -10,7 +10,7 @@
 - `LinearMinimize.py` —  модуль, в котором реализованы методы одномерной минимизации
 - `PlotFunc.py` - модуль, в котором реализованы функции для построения графиков
 - `requirements.txt` — зависимости проекта
-- `Images` - примеры визуализаций
+- `Images/` - примеры визуализаций
 
 ## Цели проекта :dart::
 * Написать модуль и протестировать его на контрольном примере.
@@ -31,21 +31,21 @@
 
 ## Примеры визуализаций проекта:
 <div align="center">
-  <img src="Images/plot_surface.png" width="950"/><br>
+  <img src="Images/plot_surface.png" width="550"/><br>
   <b>Функция Химмельблау</b>
 </div>
 
 <br> <!-- небольшой отступ между картинками -->
 
 <div align="center">
-  <img src="Images/contour_plot.png" width="950"/><br>
+  <img src="Images/contour_plot.png" width="550"/><br>
   <b>Линии уровня</b>
 </div>
 
 <br> <!-- небольшой отступ между картинками -->
 
 <div align="center">
-  <img src="Images/optimization_steps.png" width="950"/><br>
+  <img src="Images/optimization_steps.png" width="550"/><br>
   <b>Шаги оптимизации</b>
 </div>
 
